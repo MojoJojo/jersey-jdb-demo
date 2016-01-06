@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.body-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.product-form {
+	    display:block;
+		text-align:center;
+}
+		label {
+			display:inline-block;
+			width:40%;
+		}
+		input[type=text] {
+			display:inline-block;
+			width:50%;
+		}
+		
+		.submit-area {
+			width:97%;
+			text-align:right;
+		}
+		input[type=submit] {
+			text-align:right;
+		}
+		
+	

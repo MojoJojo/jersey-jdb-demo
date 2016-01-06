@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 01 23:14:18 SAST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0151-ff0a-8726-0000058009b0 
+on database directory memory:/Users/sanketsharma/Projects/eclipse-workspaces/jersey-jdb-demo/OnTargetDB with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/Users/sanketsharma/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Users/sanketsharma/Projects/eclipse-workspaces/jersey-jdb-demo
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
